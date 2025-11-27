@@ -1,0 +1,19 @@
+{
+  "persistent-targets": {
+    "settings": {
+      "preventDeselect": {
+        "name": "Prevent Target Deselection",
+        "hint": "When enabled, targets will remain selected after making rolls. Disable to return to default behavior."
+      }
+    },
+    "keybindings": {
+      "toggle": {
+        "name": "Toggle Persistent Targets",
+        "hint": "Quickly toggle the persistent targets feature on or off."
+      }
+    },
+    "notifications": {
+      "toggled": "Persistent Targets {status}"
+    }
+  }
+}
