@@ -3,7 +3,7 @@
 A Foundry VTT v13 module that prevents automatic target deselection after making rolls. Works with any game system.
 Made with AI, I have no idead what I'm doing, but hopefully it works!
 
-Manifest": https://github.com/AzureCamel/Persistent-Targets/releases/latest/download/module.json
+Manifest: https://github.com/AzureCamel/Persistent-Targets/releases/latest/download/module.json
 
 ## Features
 
