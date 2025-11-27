@@ -28,10 +28,3 @@ Navigate to **Game Settings → Module Settings → Persistent Targets** to find
 ## License
 
 MIT License - Feel free to modify and distribute.
-
-## Contributing
-
-If you find issues or want to add features:
-
-1. Report bugs with console logs and reproduction steps
-2. PRs welcome for additional system hook support
