@@ -1,0 +1,27 @@
+{
+  "id": "persistent-targets",
+  "title": "Persistent Targets",
+  "description": "Prevents automatic target deselection after rolls. Works with any game system.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Azure Camel"
+    }
+  ],
+  "esmodules": ["scripts/persistent-targets.mjs"],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/AzureCamel/persistent-targets",
+  "manifest": "https://github.com/AzureCamel/persistent-targets/releases/latest/download/module.json",
+  "download": "https://github.com/AzureCamel/persistent-targets/releases/latest/download/module.zip"
+}
