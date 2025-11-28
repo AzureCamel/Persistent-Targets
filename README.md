@@ -4,7 +4,7 @@ A Foundry VTT v13 module that prevents automatic target deselection after making
 
 Made with AI, I have no idea what I'm doing, so hopefully it works!
 
-Manifest: https://github.com/AzureCamel/Persistent-Targets/releases/latest/download/module.json
+**Manifest:** https://github.com/AzureCamel/Persistent-Targets/releases/latest/download/module.json
 
 ## Features
 
